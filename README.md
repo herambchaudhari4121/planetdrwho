@@ -23,7 +23,7 @@ feed. They are generated on a schedule using [GitHub Actions](https://github.com
 
 * `cpanfile` defines the Perl libraries that are required to generate the web site.
 
-* Everything else is a file that is used to display the new web site - fonts, images, CSS files, etc
+* Everything else is a file that can be used to display the new web site - fonts, images, CSS files, etc
 
 The generated web site is hosted on [GitHub Pages](https://pages.github.com/).
 
